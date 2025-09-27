@@ -1,10 +1,3 @@
-/**
-    Name: David Ho
-    Date: 7/8/25
-    Assignment: Lab 4
-    Youtube: https://youtu.be/js3-8nyaUKg
-    This Program: send button and potent through uart and serial
-*/
 #include "intrinsics.h"
 #include <msp430.h>
 #include <stdbool.h>
